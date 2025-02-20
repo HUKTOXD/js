@@ -1,0 +1,45 @@
+h1 {
+    color: orange;
+    font-size: 30px ; 
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .list {
+    height: 350px;
+    width: 300px;
+    background-color: gray;
+  }
+  .grn {
+    background-color: green;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .btng {
+    color: green;
+  }
+
+  .hidden {
+    display: none;
+  }
+  
+  .done {
+     text-decoration: line-through;
+  }
+  
+  .btnr {
+    color: red;
+  }
+  
+  .invisible {
+    display: none;
+  }
